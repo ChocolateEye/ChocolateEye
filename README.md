@@ -2,7 +2,7 @@
 
 ## I'm a Student, developer and a keen learner!!
 
-- 📹 I am a youtuber: [Become A VS Code SuperHero!][youtube]!
+- 📹 I am a youtuber: [My YouTube][youtube]!
 - ✉️ Reach me out: [My email][email]
 - 🥅 2021 Goals: Making a fully functioning website
 - ✒️ I am a poet and I live to write
